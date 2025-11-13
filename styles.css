@@ -7,6 +7,7 @@ h1 {
     text-align: center;
 }
 .projects { 
+	/* make the blobs float side-by-side */
     display:flex; 
     flex-wrap:wrap; 
 } 
@@ -42,3 +43,4 @@ h1 {
     text-align: center;
     margin: 15px;
 }
+
