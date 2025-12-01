@@ -65,7 +65,14 @@ a:hover {
 }
 
 /* I used ChatGPT to keep the Portfolio + LinkedIn on one horizontal line */
-.links-line {
-    white-space: nowrap;
+.links-inline {
+    display: flex;
+    align-items: center;
     font-size: 15px;
+    width: 100%;
+    white-space: nowrap;
+}
+
+.spacer {
+    flex: 1;
 }
