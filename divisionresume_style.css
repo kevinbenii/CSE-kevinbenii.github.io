@@ -1,59 +1,55 @@
 body {
     font-family: "Aptos", Arial, sans-serif;
     margin: 40px auto;
-    max-width: 900px;
-    color: #333;
-    background-color: #f9f9f9;
-    line-height: 1.6;
+    max-width: 750px;
+    color: #000;
+    background: #fff;
+    line-height: 1.4;
 }
 
 .resume-header {
     text-align: center;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 .name {
-    font-size: 32px;
+    font-size: 28px;
     font-weight: bold;
-    color: #2c3e50;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
 }
 
 .contact {
     font-size: 15px;
-    color: #444;
-}
-
-.contact a,
-.contact a:hover {
-    text-decoration: none;
-    color: #2c3e50;
-}
-
-.section {
-    display: flex;
-    margin-bottom: 25px;
 }
 
 .section-title {
-    width: 25%;
     font-weight: bold;
-    color: #2c3e50;
-    font-size: 16px;
+    font-size: 17px;
+    margin-top: 22px;
+    margin-bottom: 4px;
+    color: #000;
 }
 
 .section-content {
-    width: 75%;
     font-size: 15px;
+    margin-left: 0;
 }
 
 ul {
-    padding-left: 20px;
-    margin-top: 6px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+li {
+    margin-bottom: 3px;
+}
+
+.section {
+    margin-bottom: 10px;
 }
 
 a {
-    color: #2c3e50;
+    color: #000;
     text-decoration: none;
 }
 
