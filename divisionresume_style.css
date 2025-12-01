@@ -64,13 +64,13 @@ a:hover {
     text-decoration: underline;
 }
 
-/* I used ChatGPT to keep the Portfolio + LinkedIn on the same line */
+/* I used ChatGPT to keep the Portfolio and LinkedIn on the same line */
 .links-inline {
     display: flex;
     align-items: center;
-    font-size: 15px;
     width: 100%;
     white-space: nowrap;
+    font-size: 15px;
 }
 
 .spacer {
