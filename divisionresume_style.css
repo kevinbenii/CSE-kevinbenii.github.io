@@ -64,7 +64,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* I used ChatGPT to keep the Portfolio + LinkedIn on one horizontal line */
+/* I used ChatGPT to keep the Portfolio + LinkedIn on the same line */
 .links-inline {
     display: flex;
     align-items: center;
